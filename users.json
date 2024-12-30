@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mandi",
+        "age": 17,
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "name": "Candra",
+        "age": 20,
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "name": "Cher",
+        "age": 16,
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "name": "Ollie",
+        "age": 18,
+        "gender": "Agender"
+    },
+    {
+        "id": 5,
+        "name": "Berny",
+        "age": 18,
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "name": "Grier",
+        "age": 16,
+        "gender": "Non-binary"
+    },
+    {
+        "id": 7,
+        "name": "Jaimie",
+        "age": 15,
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "name": "Erinn",
+        "age": 19,
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "name": "Pru",
+        "age": 16,
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "name": "Reggie",
+        "age": 21,
+        "gender": "Female"
+    }
+]
